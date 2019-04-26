@@ -1,0 +1,153 @@
+[         0] Initialized system mapping!
+[       110] CitizenFX Steam child starting - command line: "C:\Users\Dawid\AppData\Local\FiveM\FiveM.exe"
+[      1313] Initialized system mapping!
+[      1453] CitizenFX Steam child starting - command line: "C:\Users\Dawid\AppData\Local\FiveM\FiveM.exe"
+[      2219] Initialized system mapping!
+[      2375] CitizenFX Steam child starting - command line: "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_SteamChild.exe" -steamparent:344
+[      2375] Initializing Steam parent.
+[      2407] Initializing Steam parent: Steam's running.
+[      2485] Initializing Steam parent: Initializing presence.
+[      2500] Initializing Steam parent: Attempting to run processes.
+[      2610] Initialized system mapping!
+[      2625] hello from "C:\Users\Dawid\AppData\Local\FiveM\FiveM.exe"
+[      2703] CitizenFX Steam child starting - command line: "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_SteamChild.exe" -steamchild:2268
+[      2719] game parent PID: 2268
+[      2719] waiting for process to exit...
+[      2875] Got ros:launcher process - pid 15188
+[      2938] Initialized system mapping!
+[      2953] MumbleAudioInput::InitializeAudioDevice: Initialized audio capture device.
+[      2969] C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\citizen\clr2\lib\mono\4.5 CitizenFX.Core.pdb is not a platform image (even though the dir matches).
+[      3157] hello from "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSLauncher" ros:launcher --parent_pid=344 "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe"
+[      3219] launcher! "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSLauncher" ros:launcher --parent_pid=344 "C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe"
+[      3235] Initialized system mapping!
+[      3313] Replacing function table list entry 0x140564000 with 0x140564000
+[      3657] Replacing function table list entry 0x142e1c000 with 0x142e1c000
+[      3703] Skipping XAudio2 patches - XAudio 2.7 is present.
+[      3703] [FontRenderer] Initializing DirectWrite.
+[      4532] Initialized system mapping!
+[      4703] CitizenFX Steam child starting - command line: "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ChromeBrowser" --type=gpu-process --field-trial-handle=3532,3867478493182361192,4913159667849772003,131072 --disable-features=VizDisplayCompositor --no-sandbox --use-angle=d3d11 --disable-direct-composition --locales-dir-path="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\bin/cef/" --log-file="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cef.log" --resources-dir-path="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\bin/cef/" --lang=en-US --gpu-preferences=KAAAAAAAAACAAwAAAQAAAAAAAAAAAGAAAAAAAAUAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --log-file="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cef.log" --service-request-channel-token=2678868491773558020 --mojo-platform-channel-handle=3552 /prefetch:2
+[      5250] C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\citizen\clr2\lib\mono\4.5 MsgPack.dll is not a platform image (even though the dir matches).
+[      5828] Creating backbuffer.
+[      5844] Done creating backbuffer.
+[      6235] versioning: /prod/gtav/launcher_online_config.xml
+[      6235] versioning: /prod/gtav/launcher_online_config.xml
+[      6391] Initialized system mapping!
+[      6453] versioning: /prod/gtav/versioning.xml
+[      6469] versioning: /prod/gtav/versioning.xml
+[      6500] versioning: /prod/gtav/versioning.xml
+[      6735] GetScSdkStub
+[      6735] CitizenFX Steam child starting - command line: "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ChromeBrowser" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --enable-experimental-web-platform-features --force-gpu-rasterization --log-file="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cef.log" --register-pepper-plugins="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\bin\d3d_rendering.dll;application/x-cfx-game-view" --use-fake-ui-for-media-stream --field-trial-handle=3532,3867478493182361192,4913159667849772003,131072 --disable-features=VizDisplayCompositor --service-pipe-token=13592415059016024838 --lang=en-US --locales-dir-path="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\bin/cef/" --log-file="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cef.log" --resources-dir-path="C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\bin/cef/" --enable-speech-input --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=13592415059016024838 --renderer-client-id=3 --mojo-platform-channel-handle=7804 /prefetch:1
+[      6735] RgscStub::QueryInterface
+[      6750] RgscStub::GetProfileManager
+[      6750] ProfileManagerStub::QueryInterface
+[      6860] Changing NUI shared resource...
+[      6875] RgscStub::Initialize
+[      7219] Got ROS subprocess - pid 7304
+[      7219] RgscStub::GetUI
+[      7235] RgscStub::GetTaskManager
+[      7250] TaskManagerStub::QueryInterface
+[      7266] RgscStub::m_10
+[      7297] CommerceManagerStub::QueryInterface
+[      7297] RgscStub::m_11
+[      7313] Initialized system mapping!
+[      7313] RgscStub::m_16
+[      7328] RgscStub::GetFileSystem
+[      7344] FileSystemStub::QueryInterface
+[      7360] RgscStub::m_14
+[      7735] hello from "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --rgsc_pid=15188 --rgsc_ipc_channel_name=rgsc_ipc_3b54 --rgsc_home_dir=C:\Users\Dawid\Documents\Rockstar*%20*Games\Social*%20*Club\Launcher\Renderer\ --no-proxy-server --enable-browser-side-navigation --safebrowsing-disable-auto-update --disable-spell-checking --disable-extensions --disable-gpu --disable-gpu-compositing --lang=pl  --remote-debugging-port=13171 --ignore-certificate-errors
+[      7813] sub! "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --rgsc_pid=15188 --rgsc_ipc_channel_name=rgsc_ipc_3b54 --rgsc_home_dir=C:\Users\Dawid\Documents\Rockstar*%20*Games\Social*%20*Club\Launcher\Renderer\ --no-proxy-server --enable-browser-side-navigation --safebrowsing-disable-auto-update --disable-spell-checking --disable-extensions --disable-gpu --disable-gpu-compositing --lang=pl  --remote-debugging-port=13171 --ignore-certificate-errors
+[      7828] Initialized system mapping!
+[      7891] Replacing function table list entry 0x1400b9000 with 0x1400b9000
+[      8641] somefunc found TitleUpdateDLC:/!
+[      8657] del cfxcollection 0x22adea10
+[      8657] del cfxcollection 0x22adea10
+[      8672] del cfxcollection 0x22adea10
+[      8688] del cfxcollection 0x22adea10
+[      8688] del cfxcollection 0x22adea10
+[      8688] del cfxcollection 0x22adea10
+[      8703] del cfxcollection 0x22adea10
+[      8703] del cfxcollection 0x22adea10
+[      8719] del cfxcollection 0x22adea10
+[      8719] del cfxcollection 0x22adea10
+[      8782] del cfxcollection 0x22adea10
+[      8782] del cfxcollection 0x22adea10
+[      8797] del cfxcollection 0x22adea10
+[      8797] RgscLogDelegate::OnEvent
+[      8813] del cfxcollection 0x22adea10
+[      8813] del cfxcollection 0x22adea10
+[      9063] Got ROS subprocess - pid 8208
+[      9094] del cfxcollection 0x22adea10
+[      9344] EndpointMapper::HandleRequest: GET //scui/v2/desktop
+[      9407] Initialized system mapping!
+[      9407] del cfxcollection 0x22adea10
+[      9485] Got ROS subprocess - pid 9960
+[      9610] del cfxcollection 0x22adea10
+[      9610] Initialized system mapping!
+[      9625] del cfxcollection 0x22adea10
+[      9625] del cfxcollection 0x22adea10
+[      9703] hello from "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=gpu-process --no-sandbox --lang=pl --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --gpu-preferences=GAAAAAAAAAAABwAAAQAAAAAAAAAAAGAA --use-gl=swiftshader-webgl --gpu-vendor-id=0x10de --gpu-device-id=0x1c8c --gpu-driver-vendor="Google Inc." --gpu-driver-version=3.3.0.2 --gpu-driver-date=2017/04/07 --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x591b --lang=pl --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --service-request-channel-token=696642593B21FF430C6DF3060BE0F131 --mojo-platform-channel-handle=2176 /prefetch:2 --remote-debugging-port=13171 --ignore-certificate-errors
+[      9750] sub! "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=gpu-process --no-sandbox --lang=pl --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --gpu-preferences=GAAAAAAAAAAABwAAAQAAAAAAAAAAAGAA --use-gl=swiftshader-webgl --gpu-vendor-id=0x10de --gpu-device-id=0x1c8c --gpu-driver-vendor="Google Inc." --gpu-driver-version=3.3.0.2 --gpu-driver-date=2017/04/07 --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x591b --lang=pl --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --service-request-channel-token=696642593B21FF430C6DF3060BE0F131 --mojo-platform-channel-handle=2176 /prefetch:2 --remote-debugging-port=13171 --ignore-certificate-errors
+[      9766] Initialized system mapping!
+[      9797] Replacing function table list entry 0x1400b9000 with 0x1400b9000
+[      9813] hello from "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=renderer --enable-browser-side-navigation --no-sandbox --disable-gpu-compositing --service-pipe-token=EEA42B83B09F9A1B1BDF0DDB0190269A --lang=en-US --lang=pl --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --disable-extensions --disable-spell-checking --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;0,18,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;1,18,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;2,18,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;3,18,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;4,18,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;5,18,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553;6,18,3553 --disable-accelerated-video-decode --service-request-channel-token=EEA42B83B09F9A1B1BDF0DDB0190269A --renderer-client-id=2 --mojo-platform-channel-handle=2216 /prefetch:1 --rgsc_ipc_channel_name=rgsc_ipc_3b54_channel_1 --remote-debugging-port=13171 --ignore-certificate-errors
+[      9875] sub! "C:\Users\Dawid\AppData\Local\FiveM\FiveM.app\cache\subprocess\FiveM_ROSSubProcess" ros:subprocess "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=renderer --enable-browser-side-navigation --no-sandbox --disable-gpu-compositing --service-pipe-token=EEA42B83B09F9A1B1BDF0DDB0190269A --lang=en-US --lang=pl --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --log-severity=disable --disable-extensions --disable-spell-checking --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;0,18,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;1,18,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;2,18,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;3,18,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;4,18,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;5,18,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553;6,18,3553 --disable-accelerated-video-decode --service-request-channel-token=EEA42B83B09F9A1B1BDF0DDB0190269A --renderer-client-id=2 --mojo-platform-channel-handle=2216 /prefetch:1 --rgsc_ipc_channel_name=rgsc_ipc_3b54_channel_1 --remote-debugging-port=13171 --ignore-certificate-errors
+[      9891] Initialized system mapping!
+[      9953] Replacing function table list entry 0x1400b9000 with 0x1400b9000
+[     10032] EndpointMapper::HandleRequest: GET /prod/gtav/font-awesome.css
+[     10047] versioning: /prod/gtav/font-awesome.css
+[     10063] EndpointMapper::HandleRequest: GET /prod/gtav/splash.png
+[     10063] versioning: /prod/gtav/splash.png
+[     10078] del cfxcollection 0x22adea10
+[     10157] EndpointMapper::HandleRequest: GET /prod/gtav/roboto.ttf
+[     10172] versioning: /prod/gtav/roboto.ttf
+[     10313] del cfxcollection 0x22adea10
+[     10547] del cfxcollection 0x22ae8000
+[     10985] del cfxcollection 0x22ae8000
+[     11063] del cfxcollection 0x22ae8000
+[     11125] EndpointMapper::HandleRequest: GET /cfx/login
+[     11375] del cfxcollection 0x22ae8000
+[     11563] del cfxcollection 0x22ae8000
+[     11610] del cfxcollection 0x22ae8000
+[     11610] del cfxcollection 0x22ae8000
+[     11657] del cfxcollection 0x22ae8000
+[     11703] del cfxcollection 0x22ae8000
+[     11719] del cfxcollection 0x22ae8000
+[     11750] del cfxcollection 0x22ae8000
+[     11797] del cfxcollection 0x22ae8000
+[     11797] del cfxcollection 0x22ae8000
+[     11860] del cfxcollection 0x22ae8000
+[     11891] del cfxcollection 0x22ae8000
+[     11953] del cfxcollection 0x22ae8000
+[     12000] del cfxcollection 0x22ae8000
+[     12047] del cfxcollection 0x22ae8000
+[     12094] del cfxcollection 0x22ae8000
+[     12141] del cfxcollection 0x22ae8000
+[     12188] https://nui-game-internal/ui/app/main.js:1, WebSocket connection to 'wss://servers-live.fivem.net/api/servers/socket/v1/' failed: Error during WebSocket handshake: Unexpected response code: 502
+[     12203] 
+[     12203] del cfxcollection 0x22ae8000
+[     12250] del cfxcollection 0x22ae8000
+[     12282] del cfxcollection 0x22ae8000
+[     12360] del cfxcollection 0x22ae8000
+[     12422] del cfxcollection 0x22ae8000
+[     12469] del cfxcollection 0x22ae8000
+[     12516] del cfxcollection 0x22ae8000
+[     12547] del cfxcollection 0x22ae8000
+[     12594] del cfxcollection 0x22ae8000
+[     12625] del cfxcollection 0x22ae8000
+[     12641] del cfxcollection 0x22ae8000
+[     12703] del cfxcollection 0x22ae8000
+[     12766] del cfxcollection 0x22ae8000
+[     12813] del cfxcollection 0x22ae8000
+[     12813] somefunc found dlc_patchDay20NG:/!
+[     12813] LoadDefDats: dlc_patchDay20NGCRC:/content.xml
+[     12828] somefunc found dlc_PATCHDAY19NG:/!
+[     12828] LoadDefDats: dlc_PATCHDAY19NGCRC:/content.xml
+[     12844] somefunc found dlc_PATCHDAY18NG:/!
+[     12844] LoadDefDats: dlc_PATCHDAY18NGCRC:/content.xml
+[     12860] somefunc found dlc_PATCHDAY17NG:/!
+[     12860] LoadDefDats: dlc_PATCHDAY17NGCRC:/content.xml
+[     12875] somefunc found dlc_PATCHDAY16NG:/!
+[     12875] LoadDefDats: dlc_PATCHDAY16NGCRC:/content.xml
+[     12891] somefunc found dlc_PATCHDAY15NG:/!
+[     13344] process exited with 0!
+[         0] GlobalError: Could not load component citizen-resources-core.dll - Windows error code 126.

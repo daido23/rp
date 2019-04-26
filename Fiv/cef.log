@@ -1,0 +1,3 @@
+[0425/221047.210:WARNING:backend_impl.cc(1645)] Messed up entry found.
+[0425/221047.210:WARNING:backend_impl.cc(1853)] Destroying invalid entry.
+[0425/221051.849:INFO:CONSOLE(1)] "WebSocket connection to 'wss://servers-live.fivem.net/api/servers/socket/v1/' failed: Error during WebSocket handshake: Unexpected response code: 502", source: https://nui-game-internal/ui/app/main.js (1)
